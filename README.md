@@ -43,10 +43,10 @@
 * randomly selects symbols, numbers and either words or letters to build passwords
 * checks the strength of passwords generated using passwordmeter
 
-    * Easier Passwords to Remember
+
 ![screenshot of app](/images/easier.png)
 
-    * More Challenging Password to Remember
+
 ![screenshot of app](/images/challenge.png)
 
 
