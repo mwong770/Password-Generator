@@ -1,6 +1,6 @@
 # Password-Generator
 
-    * A python script that generates random passwords and checks their strength
+* A python script that generates random passwords and checks their strength
 
 
 ## Table of Contents
@@ -27,6 +27,7 @@
     * pandas
     * passwordmeter
     * secrets
+* Jupyter Notebook
 
 ## <a name="installation"></a> :dvd: Installation and Usage
 
@@ -42,7 +43,11 @@
 * randomly selects symbols, numbers and either words or letters to build passwords
 * checks the strength of passwords generated using passwordmeter
 
-![screenshot of app](/PyBank/screenshots/pybank_summary.png)
+    * Easier Passwords to Remember
+![screenshot of app](/images/easier.png)
+
+    * More Challenging Password to Remember
+![screenshot of app](/images/challenge.png)
 
 
 ## <a name="developer"></a> :bust_in_silhouette: Developer
